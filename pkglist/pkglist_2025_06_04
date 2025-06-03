@@ -471,6 +471,7 @@ openssh 10.0p1-3
 openssl 3.5.0-1
 opus 1.5.2-1
 orc 0.4.41-1
+otf-font-awesome 6.7.2-1
 p11-kit 0.25.5-1
 pacman 7.0.0.r6.gc685ae6-2
 pacman-mirrorlist 20250522-1
@@ -608,6 +609,7 @@ which 2.23-1
 wireless_tools 30.pre9-4
 wireplumber 0.5.10-1
 wl-clipboard 1:2.2.1-2
+woff-fira-code 6.2-2
 wofi 1.4.1-1
 wpa_supplicant 2:2.11-3
 x264 3:0.164.r3108.31e19f9-2

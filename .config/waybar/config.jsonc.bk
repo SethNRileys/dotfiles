@@ -7,7 +7,7 @@
 	"height":	30,	// Waybar height (in pixels, autoheight if removed)
 	"spacing":	4,	// Gaps between modules (in pixels)
 	
-	"include": ["~/dotfiles/.config/waybar/modules.jsonc"],
+	"include": ["~/dotfiles/waybar/modules.jsonc"],
 
 	// Modules positioning
 
