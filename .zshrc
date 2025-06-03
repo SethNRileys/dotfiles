@@ -109,8 +109,9 @@ source $ZSH/oh-my-zsh.sh
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 
-alias fucking='sudo'
+alias fucking="sudo"
 alias draw="kitty +kitten icat"
+alias pizdec="poweroff"
 
 # Stoopid sheet when term opening
 fastfetch
