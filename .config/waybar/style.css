@@ -1,0 +1,29 @@
+* {
+border:		none;
+font-family:	Fira Code;
+font-size:	16px;
+font-weight:	bold;
+min-height:	0;
+color:		rgba(240, 245, 249, 1);
+margin:		1;
+}
+
+window#waybar {
+background: transparent;
+}
+
+#workspaces,
+#language,
+#network,
+#pulseaudio,
+#clock {
+padding-left:	8;
+padding-right:	8;
+}
+
+#disk,
+#cpu,
+#memory {
+padding-left:	2;
+padding-right:	2;
+}
