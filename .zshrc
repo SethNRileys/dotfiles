@@ -114,4 +114,5 @@ alias draw="kitty +kitten icat"
 alias pizdec="poweroff"
 
 # Stoopid sheet when term opening
+# fortune | cowsay -f stegosaurus
 fastfetch
